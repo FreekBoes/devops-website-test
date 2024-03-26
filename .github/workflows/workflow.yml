@@ -46,3 +46,4 @@ jobs:
           action: "upload"
           app_location: / # App source code path
           skip_app_build: true
+        
